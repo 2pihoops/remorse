@@ -1,0 +1,6 @@
+# remorse
+A really stupid encryption scheme
+
+0xf6793fdff8a6c43ffff4e257fdf3feddff83fa2819ff69fc7ff3ff15
+
+0xf982605204ca9920640891820449025240c604919040a902481240a0
